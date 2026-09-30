@@ -1,0 +1,33 @@
+topic_id,subject,topic_name,difficulty
+TP01,Physics,Kinematics,1
+TP02,Physics,Laws of Motion,2
+TP03,Physics,"Work, Energy & Power",2
+TP04,Physics,Rotational Motion,3
+TP05,Physics,Gravitation,2
+TP06,Physics,Electrostatics,3
+TP07,Physics,Current Electricity,2
+TP08,Physics,Optics,2
+TP09,Chemistry,Mole Concept,1
+TP10,Chemistry,Atomic Structure,1
+TP11,Chemistry,Chemical Bonding,2
+TP12,Chemistry,Thermodynamics,3
+TP13,Chemistry,Equilibrium,3
+TP14,Chemistry,Organic Basics (GOC),3
+TP15,Chemistry,Periodic Table,1
+TP16,Chemistry,Redox Reactions,2
+TP17,Mathematics,Quadratic Equations,1
+TP18,Mathematics,Trigonometry,2
+TP19,Mathematics,Sequences & Series,2
+TP20,Mathematics,Permutations & Combinations,3
+TP21,Mathematics,Straight Lines,1
+TP22,Mathematics,Limits & Continuity,2
+TP23,Mathematics,Differentiation,2
+TP24,Mathematics,Probability,3
+TP25,Biology,Cell Biology,1
+TP26,Biology,Plant Physiology,2
+TP27,Biology,Human Physiology,2
+TP28,Biology,Genetics,3
+TP29,Biology,Ecology,1
+TP30,Biology,Biomolecules,2
+TP31,Biology,Reproduction,2
+TP32,Biology,Evolution,1

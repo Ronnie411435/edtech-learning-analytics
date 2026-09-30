@@ -1,0 +1,7 @@
+program,mode,students,avg_attendance_pct,avg_hw_submission_pct,avg_score_pct,dropout_rate_pct
+Foundation,Offline,328,80.3,76.6,39.3,8.2
+Foundation,Online,174,75.3,70.5,38.8,10.3
+JEE,Offline,310,80.5,77.0,40.7,9.4
+JEE,Online,202,75.1,69.9,37.9,11.9
+NEET,Offline,311,80.6,77.2,41.9,8.7
+NEET,Online,175,74.3,69.2,36.8,6.9

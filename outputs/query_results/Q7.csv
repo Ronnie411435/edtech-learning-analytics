@@ -1,0 +1,17 @@
+subject,teacher_name,experience_years,students_taught,accuracy_pct,rank_in_subject
+Biology,Keerthi Gowda,14,301,64.33,1
+Biology,Sneha Patil,2,181,61.07,2
+Biology,Aditi Das,5,178,60.52,3
+Biology,Isha Nair,12,323,58.69,4
+Chemistry,Tanvi Hegde,8,472,66.98,1
+Chemistry,Neha Menon,2,324,62.87,2
+Chemistry,Pooja Bhat,11,459,61.23,3
+Chemistry,Harsh Nair,14,240,57.8,4
+Mathematics,Aadhya Pillai,1,59,63.31,1
+Mathematics,Yash Kumar,2,164,62.05,2
+Mathematics,Shreya Menon,7,438,58.02,3
+Mathematics,Neha Verma,7,351,57.21,4
+Physics,Arjun Joshi,4,299,60.73,1
+Physics,Arjun Menon,15,345,59.56,2
+Physics,Arjun Bhat,10,343,58.14,3
+Physics,Siddharth Gowda,13,512,57.51,4

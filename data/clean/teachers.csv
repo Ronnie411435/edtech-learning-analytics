@@ -1,0 +1,17 @@
+teacher_id,teacher_name,subject,experience_years
+T001,Arjun Bhat,Physics,10
+T002,Siddharth Gowda,Physics,13
+T003,Arjun Joshi,Physics,4
+T004,Arjun Menon,Physics,15
+T005,Pooja Bhat,Chemistry,11
+T006,Neha Menon,Chemistry,2
+T007,Tanvi Hegde,Chemistry,8
+T008,Harsh Nair,Chemistry,14
+T009,Neha Verma,Mathematics,7
+T010,Shreya Menon,Mathematics,7
+T011,Yash Kumar,Mathematics,2
+T012,Aadhya Pillai,Mathematics,1
+T013,Aditi Das,Biology,5
+T014,Isha Nair,Biology,12
+T015,Sneha Patil,Biology,2
+T016,Keerthi Gowda,Biology,14

@@ -1,0 +1,11 @@
+subject,topic_name,difficulty,students_tested,accuracy_pct,attempt_rate_pct
+Mathematics,Permutations & Combinations,3,965,49.76,79.46
+Biology,Genetics,3,937,49.79,79.15
+Physics,Rotational Motion,3,1424,50.34,79.71
+Mathematics,Probability,3,906,50.43,79.35
+Physics,Electrostatics,3,1375,51.06,79.61
+Chemistry,Thermodynamics,3,1425,53.69,79.63
+Chemistry,Equilibrium,3,1373,54.1,79.57
+Chemistry,Organic Basics (GOC),3,1373,54.79,79.67
+Biology,Biomolecules,2,902,58.34,79.41
+Mathematics,Trigonometry,2,973,58.57,79.24
